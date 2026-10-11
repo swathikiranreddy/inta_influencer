@@ -1,0 +1,9 @@
+post_id,account_id,account_type,follower_count,media_type,content_category,traffic_source,has_call_to_action,post_datetime,post_date
+DEMO001,001,creator,12000,reel,Fashion,Reels Feed,1,2025-01-01 10:00:00,2025-01-01
+DEMO002,001,creator,12500,image,Fashion,Home Feed,0,2025-01-08 10:00:00,2025-01-08
+DEMO003,001,creator,12800,carousel,Lifestyle,Profile,1,2025-02-01 10:00:00,2025-02-01
+DEMO004,002,creator,8200,reel,Education,Reels Feed,1,2025-01-03 10:00:00,2025-01-03
+DEMO005,002,creator,8500,carousel,Education,Home Feed,1,2025-02-03 10:00:00,2025-02-03
+DEMO006,003,creator,24000,reel,Fitness,Reels Feed,0,2025-01-05 10:00:00,2025-01-05
+DEMO007,003,creator,24500,image,Food,Profile,0,2025-02-05 10:00:00,2025-02-05
+DEMO008,004,brand,42000,image,Beauty,Home Feed,1,2025-02-07 10:00:00,2025-02-07
